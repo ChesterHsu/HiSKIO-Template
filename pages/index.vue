@@ -32,8 +32,172 @@
         <button>Python 3</button>
       </div>
     </div>
-    <div class="content">
-
+    <div class="content"></div>
+    <div class="course">
+      <div class="title">
+        <h3>正在募資中的課程</h3>
+        <a href="#">更多募資課程</a>
+      </div>
+      <div class="contents">
+        <div class="courseItem">
+          <div class="courseImage">
+            <img src="@/assets/images/courseImage.png">
+          </div>
+          <div class="news">
+            <h3>區塊鏈開發實戰｜零基礎也能打造資產管理系統</h3>
+            <img src="@/assets/images/avatar.png">
+            <p>KC</p>
+            <div class="remainingDays">
+              <p>剩37天</p>
+              <p style="margin: 0px;float: right;">以募資 107%</p>
+            </div>
+            <div class="progressBar"></div>
+            <div class="price">
+              <p class="discount">$ 1,990</p>
+              <s>$ 2,390</s>
+            </div>
+          </div>
+        </div>
+        <div class="interval"></div>
+        <div class="courseItem">
+          <div class="courseImage">
+            <img src="@/assets/images/courseImage.png">
+          </div>
+          <div class="news">
+            <h3>區塊鏈開發實戰｜零基礎也能打造資產管理系統</h3>
+            <img src="@/assets/images/avatar.png">
+            <p>KC</p>
+            <div class="remainingDays">
+              <p>剩37天</p>
+              <p style="margin: 0px;float: right;">以募資 107%</p>
+            </div>
+            <div class="progressBar"></div>
+            <div class="price">
+              <p class="discount">$ 1,990</p>
+              <s>$ 2,390</s>
+            </div>
+          </div>
+        </div>
+        <div class="interval"></div>
+        <div class="courseItem">
+          <div class="courseImage">
+            <img src="@/assets/images/courseImage.png">
+          </div>
+          <div class="news">
+            <h3>區塊鏈開發實戰｜零基礎也能打造資產管理系統</h3>
+            <img src="@/assets/images/avatar.png">
+            <p>KC</p>
+            <div class="remainingDays">
+              <p>剩37天</p>
+              <p style="margin: 0px;float: right;">以募資 107%</p>
+            </div>
+            <div class="progressBar"></div>
+            <div class="price">
+              <p class="discount">$ 1,990</p>
+              <s>$ 2,390</s>
+            </div>
+          </div>
+        </div>
+        <div class="interval"></div>
+        <div class="courseItem">
+          <div class="courseImage">
+            <img src="@/assets/images/courseImage.png">
+          </div>
+          <div class="news">
+            <h3>區塊鏈開發實戰｜零基礎也能打造資產管理系統</h3>
+            <img src="@/assets/images/avatar.png">
+            <p>KC</p>
+            <div class="remainingDays">
+              <p>剩37天</p>
+              <p style="margin: 0px;float: right;">以募資 107%</p>
+            </div>
+            <div class="progressBar"></div>
+            <div class="price">
+              <p class="discount">$ 1,990</p>
+              <s>$ 2,390</s>
+            </div>
+          </div>
+        </div>
+        <div class="courseItem">
+          <div class="courseImage">
+            <img src="@/assets/images/courseImage.png">
+          </div>
+          <div class="news">
+            <h3>區塊鏈開發實戰｜零基礎也能打造資產管理系統</h3>
+            <img src="@/assets/images/avatar.png">
+            <p>KC</p>
+            <div class="remainingDays">
+              <p>剩37天</p>
+              <p style="margin: 0px;float: right;">以募資 107%</p>
+            </div>
+            <div class="progressBar"></div>
+            <div class="price">
+              <p class="discount">$ 1,990</p>
+              <s>$ 2,390</s>
+            </div>
+          </div>
+        </div>
+        <div class="interval"></div>
+        <div class="courseItem">
+          <div class="courseImage">
+            <img src="@/assets/images/courseImage.png">
+          </div>
+          <div class="news">
+            <h3>區塊鏈開發實戰｜零基礎也能打造資產管理系統</h3>
+            <img src="@/assets/images/avatar.png">
+            <p>KC</p>
+            <div class="remainingDays">
+              <p>剩37天</p>
+              <p style="margin: 0px;float: right;">以募資 107%</p>
+            </div>
+            <div class="progressBar"></div>
+            <div class="price">
+              <p class="discount">$ 1,990</p>
+              <s>$ 2,390</s>
+            </div>
+          </div>
+        </div>
+        <div class="interval"></div>
+        <div class="courseItem">
+          <div class="courseImage">
+            <img src="@/assets/images/courseImage.png">
+          </div>
+          <div class="news">
+            <h3>區塊鏈開發實戰｜零基礎也能打造資產管理系統</h3>
+            <img src="@/assets/images/avatar.png">
+            <p>KC</p>
+            <div class="remainingDays">
+              <p>剩37天</p>
+              <p style="margin: 0px;float: right;">以募資 107%</p>
+            </div>
+            <div class="progressBar"></div>
+            <div class="price">
+              <p class="discount">$ 1,990</p>
+              <s>$ 2,390</s>
+            </div>
+          </div>
+        </div>
+        <div class="interval"></div>
+        <div class="courseItem">
+          <div class="courseImage">
+            <img src="@/assets/images/courseImage.png">
+          </div>
+          <div class="news">
+            <h3>區塊鏈開發實戰｜零基礎也能打造資產管理系統</h3>
+            <img src="@/assets/images/avatar.png">
+            <p>KC</p>
+            <div class="remainingDays">
+              <p>剩37天</p>
+              <p style="margin: 0px;float: right;">以募資 107%</p>
+            </div>
+            <div class="progressBar"></div>
+            <div class="price">
+              <p class="discount">$ 1,990</p>
+              <s>$ 2,390</s>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -101,6 +265,95 @@ export default {
   height: 63px;
   margin: 0px auto 72px;
   background: url("./assets/images/content.png") no-repeat left center;
+}
+.course{
+  width: 1200px;
+  margin: 0px auto;
+  padding: 0px 136px;
+}
+.course .title{
+  width: 1200px;
+  height: 28px;
+  margin-bottom: 26px;
+}
+.course .title h3{
+  width: 195px;
+  font-size: 24px;
+  float: left;
+}
+.course .title a{
+  font-size: 15px;
+  color: #8c8c8c;
+  text-decoration:none;
+  float: right;
+  margin: 4px 0px;
+}
+.contents{
+  width: 1200px;
+  height: 735px;
+  margin: 0px auto;
+}
+.contents .courseItem{
+  width: 280px;
+  height: 353px;
+  float: left;
+  margin-bottom: 26px;
+  border-radius: 5px;
+  box-shadow:1px 3px 9px gray;
+}
+.contents .courseItem .courseImage{
+  width: 280px;
+  height: 158px;
+}
+.contents .courseItem .news h3{
+  margin: 0px 0px 10px 0px;
+}
+.contents .courseItem .news{
+  width: 250px;
+  height: 80px;
+  margin: 0px 6px;
+}
+.contents .courseItem .news img{
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  float: left;
+}
+.contents .courseItem .news p{
+  float: left;
+  font-size: 14px;
+  color: #8c8c8c;
+  margin: 8px 190px 8px 0px;
+}
+.contents .courseItem .news .progressBar{
+  width: 260px;
+  height: 9px;
+  margin: 10px auto;
+  float: left;
+  border-radius: 30px;
+  background: #d7645f;
+}
+.contents .courseItem .news .price p{
+  margin: 0px 4px;
+  font-size: 18px;
+  color: #454545;
+}
+.contents .courseItem .news .price s{
+  margin: 3px 6px;
+  font-size: 13px;
+  color: #c0c0c0;
+}
+.contents .courseItem .news .remainingDays p{
+  font-size: 13px;
+  margin: 3px 0px 0px 3px;
+  color: #595959;
+  float: left;
+}
+.contents .interval{
+  width: 26px;
+  float: left;
+  height: 353px;
+  margin-bottom: 26px;
 }
 </style>
 
