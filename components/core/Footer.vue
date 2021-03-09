@@ -56,12 +56,12 @@ export default {
    margin: 0px auto 18px;
  }
  .footer .section2 ul li{
-   font-size: 14px;
    list-style-type:none;
    float: left;
    border: none;
  }
  .footer .section2 ul li a{
+   font-size: 14px;
    text-decoration:none;
    float: left;
    margin-right: 109px;
