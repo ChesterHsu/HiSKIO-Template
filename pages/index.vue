@@ -199,6 +199,57 @@
         </div>
       </div>
     </div>
+    <div class="evaluation">
+      <h3>口碑排行</h3>
+      <div class="comment">
+        <div class="comment-item">
+          <img src="@/assets/images/avatar1.png">
+          <p>小強</p>
+          <p class="date">2021/03/07</p>
+          <h3>內容很詳細很充分很棒的課程，可以學到很多東西，整體節奏較快，有些變數或函式的用法會希望老師可以順帶提一下，幫助基礎不好的同學減少學習上的阻力。</h3>
+          <div class="emptyStars"></div>
+          <div class="courseItem">
+            <img src="@/assets/images/course.png">
+            <p>Android UI 進階實戰 - 打造App絕佳體驗</p>
+          </div>
+        </div>
+        <div class="interval"></div>
+        <div class="comment-item">
+          <img src="@/assets/images/avatar1.png">
+          <p>小強</p>
+          <p class="date">2021/03/07</p>
+          <h3>內容很詳細很充分很棒的課程，可以學到很多東西，整體節奏較快，有些變數或函式的用法會希望老師可以順帶提一下，幫助基礎不好的同學減少學習上的阻力。</h3>
+          <div class="emptyStars"></div>
+          <div class="courseItem">
+            <img src="@/assets/images/course.png">
+            <p>Android UI 進階實戰 - 打造App絕佳體驗</p>
+          </div>
+        </div>
+        <div class="comment-item">
+          <img src="@/assets/images/avatar1.png">
+          <p>小強</p>
+          <p class="date">2021/03/07</p>
+          <h3>內容很詳細很充分很棒的課程，可以學到很多東西，整體節奏較快，有些變數或函式的用法會希望老師可以順帶提一下，幫助基礎不好的同學減少學習上的阻力。</h3>
+          <div class="emptyStars"></div>
+          <div class="courseItem">
+            <img src="@/assets/images/course.png">
+            <p>Android UI 進階實戰 - 打造App絕佳體驗</p>
+          </div>
+        </div>
+        <div class="interval"></div>
+        <div class="comment-item">
+          <img src="@/assets/images/avatar1.png">
+          <p>小強</p>
+          <p class="date">2021/03/07</p>
+          <h3>內容很詳細很充分很棒的課程，可以學到很多東西，整體節奏較快，有些變數或函式的用法會希望老師可以順帶提一下，幫助基礎不好的同學減少學習上的阻力。</h3>
+          <div class="emptyStars"></div>
+          <div class="courseItem">
+            <img src="@/assets/images/course.png">
+            <p>Android UI 進階實戰 - 打造App絕佳體驗</p>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -268,7 +319,7 @@ export default {
 }
 .course{
   width: 1200px;
-  margin: 0px auto;
+  margin: 0px auto 50px;
   padding: 0px 136px;
 }
 .course .title{
@@ -355,5 +406,91 @@ export default {
   height: 353px;
   margin-bottom: 26px;
 }
+.evaluation{
+  width: 100%;
+  height: 601px;
+  background: #d7645f;
+  background: url("./assets/images/evaluation.png") no-repeat left center;
+}
+.evaluation h3{
+  width: 96px;
+  height: 24px;
+  font-size: 24px;
+  margin: 0px auto;
+  padding: 48px 0px 25px 0px;
+}
+.evaluation .comment{
+  width: 1170px;
+  height: 420px;
+  margin: 0px auto;
+}
+.evaluation .comment .comment-item{
+  width: 577px;
+  height: 200px;
+  float: left;
+  margin-bottom: 20px;
+  background: #ffffff;
+  border-radius: 5px;
+  box-shadow:1px 3px 9px gray;
+}
+.evaluation .comment .interval{
+  width: 16px;
+  height: 200px;
+  float: left;
+}
+.evaluation .comment .comment-item img{
+  width: 33px;
+  height: 33px;
+  margin: 17px 18px 13px 23px;
+  float: left;
+}
+.evaluation .comment .comment-item p{
+  font-size: 13px;
+  color: #8e8e8e;
+  margin: 23px 380px 14px 0px;
+  float: left;
+}
+.evaluation .comment .comment-item .date{
+  font-size: 10px;
+  color: #8e8e8e;
+  margin: 26px 22px 14px 0px;
+  float: right;
+}
+.evaluation .comment .comment-item h3{
+  height: 40px;
+  width: 554px;
+  font-size: 15px;
+  color: #595959;
+  margin: 0px 5px 5px 23px;
+  padding: 0px;
+  float: left;
+}
+.emptyStars{
+  margin:0px 0px 5px 23px;
+}
+.evaluation .comment .comment-item .emptyStars:before {
+  content:"\2605\2605\2605\2605\2605";
+  font-size: 14pt;
+}
+.emptyStars:before {
+  -webkit-text-stroke: 1px #848484;
+}
+.evaluation .comment .comment-item .courseItem{
+  width: 533px;
+  height: 50px;
+  margin: 0px auto;
+  background: #fafafa;
+}
+.evaluation .comment .comment-item .courseItem img{
+  width: 68px;
+  height: 49px;
+  margin: 3px 8px 3px 0px;
+}
+.evaluation .comment .comment-item .courseItem p{
+  font-size: 10px;
+  color: #8c8c8c;
+  margin: 14px 0px;
+}
+
 </style>
 
